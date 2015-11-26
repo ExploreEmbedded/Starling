@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 10/28/15 13:01:46
+
+BeginCmp
+TimeStamp = /56289FEC;
+Reference = C1;
+ValeurCmp = 0.1uf;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628A037;
+Reference = C2;
+ValeurCmp = 0.1uf;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628A05E;
+Reference = C3;
+ValeurCmp = 0.1uf;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628845E;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628DB7D;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Diodes_SMD:SMA_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /562885F1;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56287E14;
+Reference = IC1;
+ValeurCmp = ATMEGA8-AI;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F61F7;
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628B027;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = matrix:matrix_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628ACE4;
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = matrix:matrix_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F90AB;
+Reference = P4;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /56305FF8;
+Reference = P5;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /563060A2;
+Reference = P6;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /563060F6;
+Reference = P7;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5630615B;
+Reference = P8;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5630799A;
+Reference = P9;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /563079D7;
+Reference = P10;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /56289908;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628A648;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628A51A;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628869A;
+Reference = R4;
+ValeurCmp = 470E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F0888;
+Reference = R5;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F0854;
+Reference = R6;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F0825;
+Reference = R7;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F07F5;
+Reference = R8;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F07C4;
+Reference = R9;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F0790;
+Reference = R10;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F0769;
+Reference = R11;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F0731;
+Reference = R12;
+ValeurCmp = 22E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F9661;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = switch:smd_push;
+EndCmp
+
+BeginCmp
+TimeStamp = /562891AF;
+Reference = U1;
+ValeurCmp = DispHB2388;
+IdModule  = matrix:8x8dot matrix;
+EndCmp
+
+BeginCmp
+TimeStamp = /5628842B;
+Reference = U2;
+ValeurCmp = lm1117/3.3;
+IdModule  = lm1117:lm117_SOT-223;
+EndCmp
+
+EndListe

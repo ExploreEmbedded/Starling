@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name matrix)(type KiCad)(uri G:\stm\kicad\LIBRARIES_EE)(options "")(descr ""))
+  (lib (name lm1117)(type KiCad)(uri G:\stm\kicad\LIBRARIES_EE)(options "")(descr ""))
+  (lib (name switch)(type KiCad)(uri G:\stm\kicad\LIBRARIES_EE\mod_switch\w_switch.pretty)(options "")(descr ""))
+  (lib (name connect)(type KiCad)(uri G:\stm\kicad\LIBRARIES_EE)(options "")(descr ""))
+)
