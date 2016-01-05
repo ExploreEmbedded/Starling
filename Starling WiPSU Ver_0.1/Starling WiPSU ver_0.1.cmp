@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 1/4/2016 6:38:50 PM
+
+BeginCmp
+TimeStamp = /5688B9AF;
+Reference = C1;
+ValeurCmp = 0.33uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688BBB6;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A80;
+Reference = C3;
+ValeurCmp = 4u7;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7F;
+Reference = C4;
+ValeurCmp = 10u;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A92;
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7C;
+Reference = C6;
+ValeurCmp = 2u2;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56882C75;
+Reference = CON1;
+ValeurCmp = 9V/2A;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867F99;
+Reference = P2;
+ValeurCmp = ESP8266 - 01;
+IdModule  = ESP8266:ESP-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A99;
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A9A;
+Reference = P4;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /568770FB;
+Reference = P6;
+ValeurCmp = 2.3" Display Conn;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5687971C;
+Reference = P7;
+ValeurCmp = 0.8" Display Conn;
+IdModule  = connect:1.27mm_smd_Header;
+EndCmp
+
+BeginCmp
+TimeStamp = /568852A3;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = SMD Ttorransis:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688569A;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = SMD Ttorransis:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5687D50B;
+Reference = Q3;
+ValeurCmp = BC847;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7B;
+Reference = R1;
+ValeurCmp = 470K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7D;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A8F;
+Reference = R3;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56887D68;
+Reference = R4;
+ValeurCmp = 330E;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56886952;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Buzzers_Beepers:Buzzer_12x9.5RM7.6;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A78;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = sw:smd_push;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688B50A;
+Reference = U1;
+ValeurCmp = L78S05;
+IdModule  = TO_SOT_Packages_THT:TO-220_Neutral123_Horizontal_MountedFromLS_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7E;
+Reference = U2;
+ValeurCmp = 1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+EndListe
