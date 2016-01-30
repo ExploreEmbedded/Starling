@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 12/30/2015 11:27:10 AM
+
+BeginCmp
+TimeStamp = /567FCF1E;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FCF83;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FCFA4;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FCCAE;
+Reference = IC1;
+ValeurCmp = ATMEGA8-AI;
+IdModule  = Housings_QFP:LQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56801545;
+Reference = P1;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /568015D8;
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FF938;
+Reference = P3;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FF978;
+Reference = P4;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FF9DD;
+Reference = P5;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /568367B7;
+Reference = P6;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FCCDA;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD3BE;
+Reference = R2;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD463;
+Reference = R3;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD481;
+Reference = R4;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD4A0;
+Reference = R5;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD4C4;
+Reference = R6;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD4E9;
+Reference = R7;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD50D;
+Reference = R8;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD538;
+Reference = R9;
+ValeurCmp = 22r;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5680184B;
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5680179B;
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FCE10;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = EE:smd_push;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD2A0;
+Reference = U1;
+ValeurCmp = 8x8_Row_anode;
+IdModule  = EE:8X8_matrix_2.3inch;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FD273;
+Reference = U2;
+ValeurCmp = ULN2803;
+IdModule  = Housings_SOIC:SOIC-18_7.5x11.6mm_Pitch1.27mm;
+EndCmp
+
+EndListe
