@@ -1,17 +1,17 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 1/4/2016 6:38:50 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 1/20/2016 11:59:54 AM
 
 BeginCmp
 TimeStamp = /5688B9AF;
 Reference = C1;
-ValeurCmp = 0.33uF;
+ValeurCmp = 0.1uF;
 IdModule  = Capacitors_SMD:C_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /5688BBB6;
+TimeStamp = /569E0CCC;
 Reference = C2;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:C_0603;
+ValeurCmp = CP1;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
 EndCmp
 
 BeginCmp
@@ -50,6 +50,13 @@ IdModule  = Connect:BARREL_JACK;
 EndCmp
 
 BeginCmp
+TimeStamp = /569F2626;
+Reference = P1;
+ValeurCmp = HC-05 Bluetooth;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
 TimeStamp = /56867F99;
 Reference = P2;
 ValeurCmp = ESP8266 - 01;
@@ -78,23 +85,16 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
 EndCmp
 
 BeginCmp
-TimeStamp = /5687971C;
-Reference = P7;
-ValeurCmp = 0.8" Display Conn;
-IdModule  = connect:1.27mm_smd_Header;
-EndCmp
-
-BeginCmp
 TimeStamp = /568852A3;
 Reference = Q1;
-ValeurCmp = MOSFET_N;
+ValeurCmp = BSS138;
 IdModule  = SMD Ttorransis:sot23;
 EndCmp
 
 BeginCmp
 TimeStamp = /5688569A;
 Reference = Q2;
-ValeurCmp = MOSFET_N;
+ValeurCmp = BSS138;
 IdModule  = SMD Ttorransis:sot23;
 EndCmp
 
@@ -134,6 +134,20 @@ IdModule  = Resistors_SMD:R_0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /569DFC7D;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /569DFA52;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /56886952;
 Reference = SP1;
 ValeurCmp = SPEAKER;
@@ -148,10 +162,10 @@ IdModule  = sw:smd_push;
 EndCmp
 
 BeginCmp
-TimeStamp = /5688B50A;
+TimeStamp = /569DF6D7;
 Reference = U1;
-ValeurCmp = L78S05;
-IdModule  = TO_SOT_Packages_THT:TO-220_Neutral123_Horizontal_MountedFromLS_LargePads;
+ValeurCmp = LM317S;
+IdModule  = TO_SOT_Packages_SMD:TO-263-3Lead;
 EndCmp
 
 BeginCmp
