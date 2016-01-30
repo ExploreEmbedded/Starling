@@ -8,4 +8,8 @@ Starling, aims to be a modular Wifi connected hackable LED Display board. It can
 
 ![Front view](http://exploreembedded.com/wiki/images/2/2c/DSC06345-001.JPG)
 
+For more details do visit the product wiki page.
+
+http://exploreembedded.com/wiki/Starling:_A_simple_internet_connected_modular_led_display.
+
 
