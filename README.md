@@ -1,6 +1,6 @@
 # Starling
 
-Starling will go live soon, do support the campaign on CrowdSupply.
+Starling is live on CrowdSupply, back us and help this open-source project get to life :)
 
 https://www.crowdsupply.com/explore-embedded/starling 
 
