@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri C:\Users\exploreembedded\Downloads\kicad-ESP8266-master\kicad-ESP8266-master\ESP8266.pretty)(options "")(descr ""))
+  (lib (name EE)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name sw)(type KiCad)(uri C:\KiCad\share\library\switch.pretty)(options "")(descr ""))
+  (lib (name "SMD Ttorransis")(type KiCad)(uri C:\KiCad\share\library\w_smd_trans.pretty)(options "")(descr ""))
+  (lib (name Pins)(type KiCad)(uri C:\KiCad\share\library\w_pin_strip.pretty)(options "")(descr ""))
+  (lib (name "TO and others")(type KiCad)(uri C:\KiCad\share\library\w_to.pretty)(options "")(descr ""))
+  (lib (name connect)(type KiCad)(uri C:\KiCad\share\library\Connect.pretty)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri C:\KiCad\share\library\w_logo.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 02-Feb-16 3:13:44 PM
+
+BeginCmp
+TimeStamp = /5688B9AF;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /569E0CCC;
+Reference = C2;
+ValeurCmp = CP1;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A80;
+Reference = C3;
+ValeurCmp = 4u7;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7F;
+Reference = C4;
+ValeurCmp = 10u;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A92;
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7C;
+Reference = C6;
+ValeurCmp = 2u2;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B03714;
+Reference = D1;
+ValeurCmp = D_Small;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /569F2626;
+Reference = P1;
+ValeurCmp = HC-05 Bluetooth;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867F99;
+Reference = P2;
+ValeurCmp = ESP8266 - 01;
+IdModule  = ESP8266:ESP-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A99;
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A9A;
+Reference = P4;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B06F97;
+Reference = P5;
+ValeurCmp = DC Jack;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /568770FB;
+Reference = P6;
+ValeurCmp = 2.3" Display Conn;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /568852A3;
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = libarary1:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688569A;
+Reference = Q2;
+ValeurCmp = BSS138;
+IdModule  = libarary1:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5687D50B;
+Reference = Q3;
+ValeurCmp = BC847;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7B;
+Reference = R1;
+ValeurCmp = 470K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7D;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A8F;
+Reference = R3;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56887D68;
+Reference = R4;
+ValeurCmp = 180E;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /569DFC7D;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /569DFA52;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56886952;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Buzzers_Beepers:Buzze_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A78;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = sw:smd_push;
+EndCmp
+
+BeginCmp
+TimeStamp = /569DF6D7;
+Reference = U1;
+ValeurCmp = LM317S;
+IdModule  = TO_SOT_Packages_SMD:TO-263-3Lead;
+EndCmp
+
+BeginCmp
+TimeStamp = /56867A7E;
+Reference = U2;
+ValeurCmp = 1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+EndListe
